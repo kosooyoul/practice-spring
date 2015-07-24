@@ -32,7 +32,7 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
-		
+
 		<!-- Spring할때 꼭 필요함 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -61,6 +61,7 @@
 	</dependencies>
 
 	<build>
+		<outputDirectory>${basedir}/target/site</outputDirectory>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
