@@ -64,7 +64,7 @@
 		<defaultGoal>install</defaultGoal>
 		<outputDirectory>${basedir}/target/site</outputDirectory>
 		<finalName>contest</finalName>
-		<!-- <sourceDirectory>src</sourceDirectory> -->
+		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
