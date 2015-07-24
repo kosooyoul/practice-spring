@@ -8,7 +8,7 @@ import net.sf.json.JSONSerializer;
 
 public class JSONResponseUtil {
 	/**
-	 * JSON View ?”ë©´ ì²˜ë¦¬ë¥??„í•´ JSONë³?™˜ ??ResponseEntityë¡?ë°˜í™˜.
+	 * JSON View
 	 * @param obj
 	 * @return
 	 */
@@ -20,7 +20,7 @@ public class JSONResponseUtil {
 	}
 	 
 	/**
-	 * JSON View ?”ë©´ ì²˜ë¦¬ë¥??„í•´ JSONë³?™˜ ??ResponseEntityë¡?ë°˜í™˜.
+	 * JSON View
 	 * @param obj
 	 * @return
 	 */
